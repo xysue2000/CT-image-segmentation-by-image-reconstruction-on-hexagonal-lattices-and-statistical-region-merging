@@ -1,2 +1,2 @@
 # CT-image-segmentation-by-image-reconstruction-on-hexagonal-lattices-and-statistical-region-merging
-Perform simulations for the effect of image segmentation utilizing reconstruction on hex. lattices followed by segmentation using statistical region merging. The segmentation results using hex. versus square lattices are displayed. Both the parallel beam and fanbeam (formula and rebinning) reconstruction and are considered.
+Perform simulations for the effect of image segmentation utilizing reconstruction on hex. lattices followed by segmentation using statistical region merging. Both the parallel beam and fanbeam (formula and rebinning) reconstruction and are considered. Just need to run drFanbeamReconSegm and driveParallelBeamCTrecon.
